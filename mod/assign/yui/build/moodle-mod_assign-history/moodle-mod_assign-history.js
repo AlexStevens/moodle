@@ -50,7 +50,7 @@ var CSS = {
                 panel.set('aria-live', 'polite');
 
                 wrapper.addClass(CSS.LINK);
-                wrapper.addClass(CSS.CLOSED);
+                wrapper.addClass(CSS.OPEN);
                 panel.addClass(CSS.PANEL);
                 panel.hide();
                 link = null;
